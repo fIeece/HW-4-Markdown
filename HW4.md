@@ -1,5 +1,6 @@
 # Markdown Challenge
 ![](https://codekitapp.com/images/help/free-markdown-icon@2x.png)
+
 Welcome to the https://beyondcodebootcamp.com Markdown Challenge!
 
 Your mission, if you choose to accept it is to recreate _this_ document, _exactly_, using only Markdown and [**gist**.github.com](gist.github.com).

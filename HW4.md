@@ -50,8 +50,8 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
-\```
 ```
+\```
 ```
 ~~~md
 **bold**, _italic_

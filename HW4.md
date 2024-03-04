@@ -62,8 +62,8 @@ em***bold***en
 ~~~
 ```
 ## Reminder
-- [x] Get Logos
-- [ ]  Check spacing, styles, syntax, etc
+- [ ] Get Logos
+- [ ] Check spacing, styles, syntax, etc
 
 ## Resources
 ### Images

@@ -44,7 +44,7 @@ func main() {
 }
 ```
 
-~~~md
+~~~
 ```go
 import "fmt"
 

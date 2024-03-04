@@ -1,4 +1,4 @@
-# Markdown Challenge
+# **Markdown Challenge**
 ![](https://codekitapp.com/images/help/free-markdown-icon@2x.png)
 
 Welcome to the https://beyondcodebootcamp.com Markdown Challenge!
@@ -9,7 +9,7 @@ Your mission, if you choose to accept it is to recreate _this_ document, _exactl
 
 Also, everything you need is at https://bit.ly/beyondcode-markdown.
 
-## Who Supports **`Markdown`**?
+## **Who Supports **`Markdown`**?**
 _Ranked_ from **best** to  ~~worst~~: 
 | **Site/App** | **Logo** |
 | --- | --- | 

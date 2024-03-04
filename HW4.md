@@ -27,8 +27,8 @@ _Ranked_ from **best** to  ~~worst~~:
 	- Slack
 	- Facebook Messenger
 ## Escape Test
-> It's easier to ask forgiveness\n
-> than it is go get permission\n
+> It's easier to ask forgiveness\
+> than it is go get permission\
 > \- Grace Hopper
 
 | **Markdown** | **Render** |

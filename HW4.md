@@ -35,7 +35,7 @@ _Ranked_ from **best** to  ~~worst~~:
 | -- | -- |
 | \*\*bold\*\*, \_italic\_ | **bold**, _italic_ |
 | \`code\`, \~strike\~ | `code`, ~~strike~~ |
-| em***bold***en | em**bold**en |
+| em\***bold\***en | em***bold***en |
 ```go
 import "fmt"
 
